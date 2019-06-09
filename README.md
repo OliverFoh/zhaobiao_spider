@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 招投标信息采集
 
 ## 项目任务
@@ -36,7 +36,4 @@
 **csv文件格式**
 
 ![](https://i.loli.net/2019/06/09/5cfc690e6e98d37057.png)
-=======
-# zhaobiao_spider
-招投标网站数据采集
->>>>>>> origin/master
+
