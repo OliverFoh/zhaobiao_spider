@@ -29,7 +29,9 @@
 
   存储最终的结果输出
 
-  
+## 字段说明
+
+![招投标.png](https://i.loli.net/2020/02/08/sNk9ucrW3MjOgpI.png)
 
 ## 数据格式
 
